@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+/*wrap开始*/
+.wrap {
+    width: 840px;
+    height: 670px;
+    background-color: white;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-left: -420px;
+    margin-top: -335px;
+}
+/*main开始*/
+.main {
+    width: 400px;
+    height: 200px;
+    background-color: #ccc;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+.yellow1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 0 0 50px 0;
+    background-color: #fc0;
+}
+.yellow2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px 0 0 0;
+    background-color: #fc0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
